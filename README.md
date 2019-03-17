@@ -17,7 +17,12 @@ The google-searcher includes some ideas of mine
 (3) No limitations
 
 # Installation
-To install Google-Searcher tool use install.sh file.
+To install Google-Searcher tool use 
+https://github.com/ankitdobhal/Google-Searcher.git
+
+# Ascii-art
+To create ascii art
+Use ascii_art.sh tool
 
 # Execution
 After installaling the tool
