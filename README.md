@@ -30,6 +30,7 @@ The google-searcher includes some ideas of mine
 
 # Installation
 To install Google-Searcher tool use 
+# syntax
 git clone https://github.com/ankitdobhal/Google-Searcher.git
 
 # Ascii-art
