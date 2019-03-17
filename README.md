@@ -2,6 +2,18 @@
 Fast google searching tool....................
 With 10 lines of codes
 
+ / ___| ___   ___   __ _| | ___     / ___|  ___  __ _ _ __ ___| |__   ___ _ __ 
+| |  _ / _ \ / _ \ / _` | |/ _ \____\___ \ / _ \/ _` | '__/ __| '_ \ / _ \ '__|
+| |_| | (_) | (_) | (_| | |  __/_____|__) |  __/ (_| | | | (__| | | |  __/ |   
+ \____|\___/ \___/ \__, |_|\___|    |____/ \___|\__,_|_|  \___|_| |_|\___|_|   
+                   |___/                                                       
+          __        ___ _   _       ____        _   _                 
+          \ \      / (_) |_| |__   |  _ \ _   _| |_| |__   ___  _ __  
+           \ \ /\ / /| | __| '_ \  | |_) | | | | __| '_ \ / _ \| '_ \ 
+            \ V  V / | | |_| | | | |  __/| |_| | |_| | | | (_) | | | |
+             \_/\_/  |_|\__|_| |_| |_|    \__, |\__|_| |_|\___/|_| |_|
+             |___/                       
+
 # Vision
 A searching tool which help you to get more results in less time without any kind of limitations.
 The tool basically based on to help users for improving the google searching power to get more results 
@@ -18,7 +30,7 @@ The google-searcher includes some ideas of mine
 
 # Installation
 To install Google-Searcher tool use 
-https://github.com/ankitdobhal/Google-Searcher.git
+git clone https://github.com/ankitdobhal/Google-Searcher.git
 
 # Ascii-art
 To create ascii art
