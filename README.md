@@ -16,7 +16,7 @@ With 10 lines of codes
 
 # Vision
 A searching tool which help you to get more results in less time without any kind of limitations.
-The tool basically based on to help users for improving the google searching power to get more results 
+The tool basically based on google searching to help users for improving the google searching power to get more results 
 So I personally decides to create an tool with the help of one of amazing language.
 
 # ITS A 10 LINE OF CODE TOOL
@@ -25,7 +25,7 @@ So I personally decides to create an tool with the help of one of amazing langua
 The google-searcher includes some ideas of mine
 
 (1) More flexible
-(2) Less time cosumes
+(2) Less time consumes
 (3) No limitations
 
 # Installation
