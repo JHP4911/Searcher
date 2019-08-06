@@ -29,13 +29,9 @@ The google-searcher includes some ideas of mine
 (3) No limitations
 
 # Installation
-To install Google-Searcher tool use 
-# syntax
 git clone https://github.com/ankitdobhal/Google-Searcher.git
-
-# Ascii-art
-To create ascii art
-Use ascii_art.sh tool
+1. Run install.sh file
+2. Run fungoogle.py
 
 # Execution
 After installaling the tool
